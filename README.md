@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 ¡Hola! Soy Juan Manuel Mejía Naranjo, Ingeniero de Sistemas y Computación, estudiante de Maestría con énfasis en Inteligencia Artificial y Ciencia de Datos.<br><br>💻 Tengo experiencia como desarrollador backend y analista de desarrollo, destacándome en la creación de soluciones escalables utilizando Java, Python y SQL. Me apasiona la tecnología, la resolución de problemas complejos y la mejora continua.
+👋 ¡Hola! Soy Juan Manuel Mejía Naranjo, Ingeniero de Sistemas y Computación, estudiante de Maestría en Ingenieria de Sistemas y Computación con énfasis en Inteligencia Artificial y Ciencia de Datos.<br><br>💻 Tengo experiencia como desarrollador backend y analista de desarrollo, destacándome en la creación de soluciones escalables utilizando Java, Python y SQL. Me apasiona la tecnología, la resolución de problemas complejos y la mejora continua.
 
 
 ## 🌐 Socials:
